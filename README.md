@@ -1,6 +1,6 @@
 # Hi, I'm Borys 👋
 
-I'm a **Senior Backend Engineer** focused on **PHP, Symfony, and backend architecture**.
+I'm a **Senior Backend Engineer** with **10+ years of experience** designing, building, and evolving backend systems, primarily with **PHP and Symfony**. My work spans hands-on engineering, system architecture, complex integrations, and technical leadership.
 
 I enjoy building reliable services, integrating systems, and turning complex infrastructure problems into maintainable tools. My open-source interests include **messaging and distributed systems**, **identity and access management**, and **developer tooling**.
 
